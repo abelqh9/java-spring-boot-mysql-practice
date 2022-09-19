@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Abel\Desktop\java_belt_exam_abelqh\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3977261395.index
+1327775437.index
+2308650172.index
+941970367.index
+2156894117.index
+252788960.index

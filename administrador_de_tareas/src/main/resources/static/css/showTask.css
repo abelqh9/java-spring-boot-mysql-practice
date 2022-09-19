@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+body{
+	padding: 3rem 15rem;
+	background-color:black;
+	color: white;
+}
+
+main{
+	display: flex;
+	flex-direction:column;
+}
+
+ul{
+	margin-top:2rem;
+	list-style:none;
+	padding:0;
+	font-size:1.15rem;
+}
+
+ul span{
+	display: inline-block;
+	width: 7.5rem;
+	font-weight:bold;
+}
+
+li{
+	margin-top:0.5rem;
+}
+
+.option_container{
+	display: flex;
+	gap:1rem;
+	margin-bottom:1.5rem;
+}

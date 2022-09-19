@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+body{
+	padding: 3rem 45rem 0rem 15rem;
+	background-color:black;
+	color: white;
+}
+
+main{
+	display: flex;
+	flex-direction:column;
+}
+
+form{
+	margin-top:2rem;
+}
+
+main form div{
+	display:flex;
+	margin-bottom:1rem
+}
+
+main form label{
+	width:10rem;
+}
+
+.text-danger{
+	display:inline-block;
+	margin-bottom:0.5rem;
+}
